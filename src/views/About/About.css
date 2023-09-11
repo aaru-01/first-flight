@@ -1,0 +1,12 @@
+.about-container{
+    height: 100vh;
+    color: rgb(64, 38, 38);
+    background-color: white;
+    align-items: center;
+}
+.heading-about{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: center;
+}

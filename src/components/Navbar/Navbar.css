@@ -1,0 +1,20 @@
+.navbar{
+    padding: 16px;
+    background-color: rgb(86, 86, 88);
+    color: white;
+    
+}
+
+.navbar a{
+ color: white;
+ text-decoration: none;
+ padding: 10px;
+}
+.active{
+    font-weight: bold;
+    color: gold !important;
+}
+.brand{
+font-size: 20px;
+margin:  0 10px;
+}

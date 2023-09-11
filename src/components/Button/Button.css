@@ -1,0 +1,27 @@
+.button-design {
+    padding: 10px;
+    height: 30px;
+    padding-left: 23px;
+    padding-right: 23px;
+    color: blue;
+    padding-bottom: 25px;
+    border: 2px solid blue;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 540px;
+}
+.button-design:hover{
+    cursor: pointer;
+    transition: 0.2s;
+    padding: 10px;
+    height: 30px;
+    padding-left: 23px;
+    padding-right: 23px;
+    color: white;
+    background-color: blue;
+    padding-bottom: 25px;
+    border: 2px solid blue;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 540px;
+}
