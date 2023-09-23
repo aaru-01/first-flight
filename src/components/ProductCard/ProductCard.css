@@ -1,0 +1,10 @@
+/* rfce = (React Functional Component Export) */
+.product-card{
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow:  0 0 10px rgba(0,0,0,0.1);
+}

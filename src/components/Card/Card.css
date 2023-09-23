@@ -1,0 +1,36 @@
+.main-container{
+   display: inline-block;
+}
+.cards{
+    height: 470px;
+    width: 310px;
+    margin: 45px;
+    margin-top: 30px; 
+    border-radius: 20px;
+    background-color: rgb(137, 141, 144);
+    box-shadow: 2px 4px 3px 2px gray;
+}
+.heading-name{
+    text-align: center;
+    color: rgb(41, 40, 40);
+}
+.price{
+    margin-left: 120px;
+    font-size: 22px;
+    color: red;
+}
+.btn-sign{
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+}
+.img-vivo{
+    height: 300px;
+    width: 290px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+}

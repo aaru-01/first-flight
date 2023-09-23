@@ -10,3 +10,8 @@
     margin-top: 30px;
     text-align: center;
 }
+.flex-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
